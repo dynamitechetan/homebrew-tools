@@ -2,7 +2,7 @@ class Edn2lambda < Formula
   desc "testing taps"
   homepage "https://github.com/dynamitechetan/edn-to-lambda"
   url "http://high-birthday.surge.sh/edn2lambda-1.0.0.tar.gz"
-  sha256 "66656339a3aa14ce65ecd66332c2c8fd3836a99dec9543c4eedbbb16d2286f88"
+  sha256 "e366293bd911859ff8aa47fac6b7d6285cb39359001665dc0ef54762abb0cdf0"
 
   bottle :unneeded
 
