@@ -1,4 +1,4 @@
-class Edn2Lambda < Formula
+class Edn2lambda < Formula
   desc "testing taps"
   homepage "https://github.com/dynamitechetan/edn-to-lambda"
   url "https://github.com/dynamitechetan/edn-to-lambda/releases/download/1.0.0/edn2lambda-1.0.0.tar.gz"
