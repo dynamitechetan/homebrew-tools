@@ -2,9 +2,9 @@ class Edn2lambda < Formula
   desc "testing taps"
   homepage "https://github.com/dynamitechetan/edn-to-lambda"
   url "https://violet-parent.surge.sh/edn2lambda-1.0.0.tar.gz"
-  sha256 "1546fbc251445299e6e42fe0a195778317b4a418ab8d11e700c3d2b4723daa9f"
+  sha256 "461963e681866fd6f3b0dafac5b3fac696e1deddb6c8df9014678cff813b2101"
   
-  revision 3
+  revision 4
 
   bottle :unneeded
 
